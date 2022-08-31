@@ -1,6 +1,10 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "The school is open!"
+=======
+echo "School"
+>>>>>>> parent of 8983f8e... My personal work
 =======
 echo "School"
 >>>>>>> parent of 8983f8e... My personal work
